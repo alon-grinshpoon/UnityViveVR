@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to VR in Unity.CSharp", "Introduction to VR in Unity.CSharp.csproj", "{1673B2D4-82CE-BD0D-AA07-185261F8A8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to VR in Unity.CSharp.Editor", "Introduction to VR in Unity.CSharp.Editor.csproj", "{FA87209E-6707-3569-07E6-A0248EC2EF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1673B2D4-82CE-BD0D-AA07-185261F8A8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1673B2D4-82CE-BD0D-AA07-185261F8A8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1673B2D4-82CE-BD0D-AA07-185261F8A8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1673B2D4-82CE-BD0D-AA07-185261F8A8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA87209E-6707-3569-07E6-A0248EC2EF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA87209E-6707-3569-07E6-A0248EC2EF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA87209E-6707-3569-07E6-A0248EC2EF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA87209E-6707-3569-07E6-A0248EC2EF77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
